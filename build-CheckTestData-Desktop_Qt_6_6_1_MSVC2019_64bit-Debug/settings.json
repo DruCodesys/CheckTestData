@@ -1,0 +1,10 @@
+{
+    "crack": 2,
+    "maxCrack": 2.2,
+    "maxFP": 3,
+    "maxReseat": 2,
+    "minCrack": 1.8,
+    "minFR": 8,
+    "minReseat": 1.6,
+    "reseat": 1.8
+}
